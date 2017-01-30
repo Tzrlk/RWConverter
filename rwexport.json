@@ -1,0 +1,297 @@
+{
+  "output": {
+    "definition": {
+      "details": {
+        "_name": "CarnageCon2016",
+        "_original_uuid": "EC159BB6-BDEA-B166-5053-6B93AF696BA9"
+      }
+    },
+    "contents": {
+      "topic": [
+        {
+          "section": [
+            {
+              "snippet": {
+                "tag_assign": {
+                  "_tag_name": "Gnome",
+                  "_domain_name": "Race",
+                  "_type": "Indirect"
+                },
+                "_facet_name": "Race",
+                "_type": "Tag_Standard",
+                "_reveal_date": "2017-01-23T21:47:09Z"
+              },
+              "_name": "Overview"
+            },
+            {
+              "_name": "Background"
+            }
+          ],
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "linkage": [
+            {
+              "_target_id": "Topic_56",
+              "_target_name": "Cloud Giant's Bargain",
+              "_direction": "Inbound"
+            },
+            {
+              "_target_id": "Topic_58",
+              "_target_name": "Bambra's Offer",
+              "_direction": "Inbound"
+            },
+            {
+              "_target_id": "Topic_91",
+              "_target_name": "Dagger Way",
+              "_direction": "Inbound"
+            }
+          ],
+          "_topic_id": "Topic_1",
+          "_public_name": "Bambra Gallagher",
+          "_category_name": "Individual",
+          "_reveal_date": "2017-01-23T21:47:07Z"
+        },
+        {
+          "section": {
+            "snippet": [
+              {
+                "contents": "<p class=\"RWDefault\"><span class=\"RWSnippet\">t</span><span class=\"RWSnippet\">tThe renowned adventuring company Acquistions Inc. hires you to infiltrate a castle - but not just any castle. THis is a flying fortress built by the cloud giant Count Stratovan, who is currently preparing to destroy the Sword Coast. Your mission is to meet with his son, who claims to want to prevent the war and establish peace between the giants and the small folk. If you can learn wheather the son can be trusted, discover the secrets of the castle, and... well, survive, you too can earn acclaim with Acquistions Inc.!</span></p>",
+                "_type": "Multi_Line",
+                "_reveal_date": "2017-01-24T03:02:02Z"
+              },
+              {
+                "contents": "<p class=\"RWDefault\"><span class=\"RWSnippet\">You step out of Driftwood Tavern, a favorite among locals, into a tumultouous street in the city of Neverwinter. Clutched in your hand is the scroll given to you by the tavernkeep when you inquied about work in town. According to her, a gnome by the dubious name of </span><span class=\"RWSnippet\"><span>Bambra Gallagher</span></span><span class=\"RWSnippet\"> wishes to employ heroes for a grand adventure. Your potential employer awaits you on a side street off Dagger Way, a short walk from here.</span></p>",
+                "_type": "Multi_Line",
+                "_style": "Read_Aloud",
+                "_reveal_date": "2017-01-24T03:02:03Z"
+              },
+              {
+                "contents": "<p class=\"RWDefault\"><span class=\"RWSnippet\">You are not alone. Others seems to have answered the call as well. You look at your companions, will you have what it takes to succeed?</span></p>",
+                "_type": "Multi_Line",
+                "_style": "Read_Aloud",
+                "_reveal_date": "2017-01-24T03:02:04Z"
+              }
+            ],
+            "_name": "Overview"
+          },
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "linkage": {
+            "_target_id": "Topic_1",
+            "_target_name": "Bambra Gallagher",
+            "_direction": "Outbound"
+          },
+          "_topic_id": "Topic_56",
+          "_public_name": "Cloud Giant's Bargain",
+          "_category_name": "Story Source",
+          "_reveal_date": "2017-01-24T03:02:01Z"
+        },
+        {
+          "section": {
+            "_name": "Overview"
+          },
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "linkage": {
+            "_target_id": "Topic_91",
+            "_target_name": "Dagger Way",
+            "_direction": "Inbound"
+          },
+          "topic": {
+            "section": [
+              {
+                "snippet": {
+                  "contents": "<p class=\"RWDefault\"><span class=\"RWSnippet\">tqThe streets grow quiet as you leave the busy area near </span><span class=\"RWSnippet\"><span class=\"RWSnippet\">Neverwinter</span></span><span class=\"RWSnippet\">'s </span><span class=\"RWSnippet\"><span class=\"RWSnippet\">docks</span></span><span class=\"RWSnippet\"> and make your way through neighborhoods filled with shops and residences. The fity is still recovering from the cateclysm and hard times, and many houses remain borderd up and abandoned.</span></p><p class=\"RWDefault\"><span class=\"RWSnippet\">&nbsp;</span></p><p class=\"RWDefault\"><span class=\"RWSnippet\"><span class=\"RWSnippet\">Neverwinter</span></span><span class=\"RWSnippet\"> is famous for the river that flows through the city, originating from a volcanic mountain and warming the area year-round. Today, however, strong winds and overcast skis bring a chill to the air.</span></p><p class=\"RWDefault\"><span class=\"RWSnippet\">&nbsp;</span></p><p class=\"RWDefault\"><span class=\"RWSnippet\">Dagger Way is deserted as you turn into the narrow dead-end alleyway where your meeting is to take place. Broken crates and piles of refuse line it's shadowed walls. A robed body lies on the ground some twenty feet away, partially concealed by a crate.</span></p>",
+                  "_type": "Multi_Line",
+                  "_style": "Read_Aloud",
+                  "_reveal_date": "2017-01-23T21:46:55Z"
+                },
+                "_name": "Description"
+              },
+              {
+                "_name": "Points of Interest"
+              }
+            ],
+            "tag_assign": [
+              {
+                "_tag_name": "CarnageCon2016",
+                "_domain_name": "Export"
+              },
+              {
+                "_tag_name": "Empty",
+                "_domain_name": "Utility",
+                "_is_auto_assign": "true"
+              }
+            ],
+            "linkage": [
+              {
+                "_target_id": "Topic_1",
+                "_target_name": "Bambra Gallagher",
+                "_direction": "Outbound"
+              },
+              {
+                "_target_id": "Topic_7",
+                "_target_name": "Docks",
+                "_direction": "Outbound"
+              },
+              {
+                "_target_id": "Topic_57",
+                "_target_name": "Ambush!",
+                "_direction": "Outbound"
+              },
+              {
+                "_target_id": "Topic_92",
+                "_target_name": "Neverwinter",
+                "_direction": "Outbound"
+              }
+            ],
+            "topic": {
+              "section": [
+                {
+                  "snippet": [
+                    {
+                      "tag_assign": {
+                        "_tag_name": "Encounter",
+                        "_domain_name": "Scene Type",
+                        "_type": "Indirect",
+                        "_is_auto_assign": "true"
+                      },
+                      "_facet_name": "Scene Type",
+                      "_type": "Tag_Standard",
+                      "_reveal_date": "2017-01-24T03:02:28Z"
+                    },
+                    {
+                      "tag_assign": {
+                        "_tag_name": "Combat",
+                        "_domain_name": "Encounter Type",
+                        "_type": "Indirect"
+                      },
+                      "_facet_name": "Encounter Type",
+                      "_type": "Tag_Standard",
+                      "_reveal_date": "2017-01-24T03:02:27Z"
+                    }
+                  ],
+                  "_name": "Overview"
+                },
+                {
+                  "_name": "Participants"
+                }
+              ],
+              "tag_assign": {
+                "_tag_name": "CarnageCon2016",
+                "_domain_name": "Export"
+              },
+              "linkage": [
+                {
+                  "_target_id": "Topic_91",
+                  "_target_name": "Dagger Way",
+                  "_direction": "Inbound"
+                },
+                {
+                  "_target_id": "Topic_93",
+                  "_target_name": "Veteran",
+                  "_direction": "Outbound"
+                },
+                {
+                  "_target_id": "Topic_94",
+                  "_target_name": "Spy",
+                  "_direction": "Outbound"
+                },
+                {
+                  "_target_id": "Topic_95",
+                  "_target_name": "Lyn Zee",
+                  "_direction": "Outbound"
+                }
+              ],
+              "_topic_id": "Topic_57",
+              "_public_name": "Ambush!",
+              "_category_name": "Scene",
+              "_reveal_date": "2017-01-24T03:02:26Z"
+            },
+            "_topic_id": "Topic_91",
+            "_public_name": "Dagger Way",
+            "_category_name": "Location",
+            "_reveal_date": "2017-01-23T21:46:53Z"
+          },
+          "_topic_id": "Topic_92",
+          "_public_name": "Neverwinter",
+          "_category_name": "Community",
+          "_reveal_date": "2017-01-24T03:02:21Z"
+        },
+        {
+          "section": [
+            {
+              "_name": "Overview"
+            },
+            {
+              "_name": "Profile"
+            },
+            {
+              "_name": "Background"
+            }
+          ],
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "_topic_id": "Topic_105",
+          "_public_name": "Hadutha",
+          "_suffix": "the Smith",
+          "_category_name": "Individual",
+          "_reveal_date": "2016-11-03T01:01:22Z"
+        },
+        {
+          "section": [
+            {
+              "_name": "Overview"
+            },
+            {
+              "_name": "Background"
+            }
+          ],
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "_topic_id": "Topic_108",
+          "_public_name": "Fire Giant",
+          "_category_name": "Individual",
+          "_reveal_date": "2016-11-03T01:05:59Z"
+        },
+        {
+          "section": [
+            {
+              "_name": "Overview"
+            },
+            {
+              "_name": "Profile"
+            },
+            {
+              "_name": "Background"
+            }
+          ],
+          "tag_assign": {
+            "_tag_name": "CarnageCon2016",
+            "_domain_name": "Export"
+          },
+          "_topic_id": "Topic_109",
+          "_public_name": "Ironmonger",
+          "_category_name": "Individual",
+          "_reveal_date": "2016-11-03T01:06:01Z"
+        }
+      ]
+    },
+    "_xmlns": "urn:lonewolfdevel.com:realm-works-export",
+    "_format_version": "2",
+    "_game_system_id": "1",
+    "_source_scope_uuid": "5DC2217B-91C6-5D3A-00D0-6A93AF696BA9",
+    "_owner_uuid": "F25B217B-91C6-5D3A-00D0-6A935C3C6BA9",
+    "_export_date": "2017-01-24T03:02:43Z"
+  }
+}
